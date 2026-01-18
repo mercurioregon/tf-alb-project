@@ -1,1 +1,1 @@
-Appplication Load Balancer
+Application Load Balancer
